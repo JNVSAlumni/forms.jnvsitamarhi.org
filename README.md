@@ -1,11 +1,10 @@
-# Bipul's Web
+# Survey | JNV Sitamarhi Alumni Association
+Survey form of JNV Sitamarhi Alumni Association
 
-Meeting Scheduling website of Bipul Raman
-
-Link: https://meet.bipul.in
+Link: survey.jnvsitamarhi.org
 
 ## Deployment
 
 |repository|branch|deployed to|
 |---|---|---|
-|`BipulRaman/meet.bipul.in`|`main`|https://meet.bipul.in|
+|`JNVSAlumni/survey.jnvsitamarhi.org`|`main`|https://survey.jnvsitamarhi.org|
