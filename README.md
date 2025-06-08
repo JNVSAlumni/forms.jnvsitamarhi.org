@@ -1,7 +1,7 @@
 # Forms | JNV Sitamarhi Alumni Association
 Forms of JNV Sitamarhi Alumni Association
 
-Link: survey.jnvsitamarhi.org
+Link: forms.jnvsitamarhi.org
 
 ## Deployment
 
