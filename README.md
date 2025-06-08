@@ -1,5 +1,5 @@
-# Survey | JNV Sitamarhi Alumni Association
-Survey form of JNV Sitamarhi Alumni Association
+# Forms | JNV Sitamarhi Alumni Association
+Forms of JNV Sitamarhi Alumni Association
 
 Link: survey.jnvsitamarhi.org
 
@@ -7,4 +7,4 @@ Link: survey.jnvsitamarhi.org
 
 |repository|branch|deployed to|
 |---|---|---|
-|`JNVSAlumni/survey.jnvsitamarhi.org`|`main`|https://survey.jnvsitamarhi.org|
+|`JNVSAlumni/forms.jnvsitamarhi.org`|`main`|https://forms.jnvsitamarhi.org|
